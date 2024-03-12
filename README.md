@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <br><br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=918EF0&height=100&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=918EF0&height=150&section=header&text=""&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000t&color=918EF0&size=40&center=true&vCenter=true&width=500&height=80&lines=%E3%80%80%E3%80%80Hello%2C+I'm+SeHee+Moon.🌙+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 918EF0
 <br><br>
