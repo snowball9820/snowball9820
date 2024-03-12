@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 </a>
 
 <br><br>
+</div>
 
-### ✍🏻 DEV Log 
+## ✍🏻Dev.Log 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@snowball9820">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
