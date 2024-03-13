@@ -40,7 +40,10 @@ Here are some ideas to get you started:
     <a href="https://velog.io/@snowball9820/series">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>  
+     <a href="https://snowball9820.github.io/">
+        <img src="https://img.shields.io/badge/githubpages-918EF0?style=for-the-badge&logo=githubpages&logoColor=white"> 
+    </a>  
 </div>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowball9820)](https://velog.io/@snowball9820/1-2.%EC%9E%AC%EA%B7%80%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98-%ED%83%91-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowball9820)](https://velog.io/@snowball9820/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
