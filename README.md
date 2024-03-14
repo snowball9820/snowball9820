@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
 
 ### IDE Tool
-<img src="https://img.shields.io/badge/Intellij-918EF0?style=flat&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-918EF0?style=flat&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <br>
