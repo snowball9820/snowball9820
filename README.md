@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 ### Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=918EF0&height=80&section=footer)
  
 <br><br>
 
