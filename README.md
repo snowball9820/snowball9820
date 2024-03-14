@@ -45,10 +45,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 
 ### Framework
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 
 ### Database
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
