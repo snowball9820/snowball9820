@@ -38,25 +38,27 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 
 ### Framework
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 ### Database
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/RoomDB-34A853?style=flat&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/RoomDB-34A853?style=flat&logo=&logoColor=white">  
 
-
-
-
+### Version Control
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
+ 
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
