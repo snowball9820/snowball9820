@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000t&color=918EF0&size=40&center=true&vCenter=true&width=500&height=80&lines=%E3%80%80%E3%80%80Hello%2C+I'm+SeHee+Moon.🌙+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
+<br>
+
+### Main Language
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+
+### I've used language once
+
+
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
