@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
 
-### IDE Tool
+### IDE & Tool
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/RoomDB-34A853?style=flat&logo=&logoColor=white">  
+<img src="https://img.shields.io/badge/RoomDB-000000?style=flat&logo=&logoColor=white">  
 
 ### Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
