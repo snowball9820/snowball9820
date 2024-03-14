@@ -23,10 +23,17 @@ Here are some ideas to get you started:
 <br>
 
 ### Main Language
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 
 ### I've used language once
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-512BD4?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+
+
 
 
 <br><br>
