@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=918EF0&height=100&section=header)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000t&color=918EF0&size=40&center=true&vCenter=true&width=500&height=80&lines=%E3%80%80%E3%80%80Hello%2C+I'm+SeHee+Moon.🌙+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
+</div>
 <br>
 
-### Main Language
+#### Main Language
 <img src="https://img.shields.io/badge/JAVA-B5651D?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 
-### I've used language once
+#### Languages that I’ve used at least once
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-512BD4?style=flat&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
 
-### IDE & Tools
+#### IDE & Tools
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
@@ -44,25 +44,25 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 
-### Framework
+#### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 
-### Database
+#### Database
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/RoomDB-000000?style=flat&logo=&logoColor=white">  
 
-### Version Control
+#### Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=918EF0&height=80&section=footer)
- 
+<div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snowball9820&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918EF0&count_private=true" width=48% />
 </a>
