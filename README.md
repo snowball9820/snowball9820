@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 #### Database
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
