@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
+<!--<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">-->
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 
 #### Framework
@@ -69,11 +68,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowball9820&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918EF0&count_private=true&exclude_repo=Face-Transfer-Application" width="48%"/>
     </a>   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=snowball9820&theme=react-dark&bg_color=20232a&hide_border=true&line=918EF0&color=918EF0" width=98%/>
-</a>
+</a>-->
 
-<br><br>
+<br>
 </div>
 
 ## ✍🏻Dev.Log 
@@ -81,9 +80,9 @@ Here are some ideas to get you started:
     <a href="https://snowball9820.github.io/">
         <img src="https://img.shields.io/badge/githubpages-918EF0?style=for-the-badge&logo=githubpages&logoColor=white"> 
     </a>  
-    <a href="https://velog.io/@snowball9820/series">
+  <!--  <a href="https://velog.io/@snowball9820/series">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>  
+    </a> --> 
     
 </div>
   
