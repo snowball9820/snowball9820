@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">-->
 
-#### IDE & Tools
+#### IDE & Tool
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
+<!--<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">-->
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <!--<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">-->
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/RoomDB-000000?style=flat&logo=&logoColor=white">  
 
-#### Version Control
+<!--#### Version Control
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=918EF0&height=80&section=footer)
 
