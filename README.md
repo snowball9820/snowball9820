@@ -21,27 +21,35 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000t&color=918EF0&size=40&center=true&vCenter=true&width=500&height=80&lines=%E3%80%80%E3%80%80Hello%2C+I'm+SeHee+Moon.🌙+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br>
-
-#### Main Language
+#### interested in
 <img src="https://img.shields.io/badge/JAVA-B5651D?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 
-#### Languages that I’ve used at least once
+<!--#### Main Language
+<img src="https://img.shields.io/badge/JAVA-B5651D?style=flat&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">-->
+
+<!--#### Languages that I’ve used at least once
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-512BD4?style=flat&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">-->
 
-#### IDE & Tool
+<!--#### IDE & Tool
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <!--<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">-->
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<!--<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">-->
 <!--<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">-->
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<!--<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 
 #### Studying
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -49,7 +57,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">-->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <!--<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/RoomDB-000000?style=flat&logo=&logoColor=white"> -->
