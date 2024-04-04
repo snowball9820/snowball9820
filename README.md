@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 <br>
 
-##### interested in  
+#### 💜Interested in  
 
 <img src="https://img.shields.io/badge/JAVA-B5651D?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
