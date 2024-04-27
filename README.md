@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JAVA-B5651D?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Intellij-462679?style=flat&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <br>
