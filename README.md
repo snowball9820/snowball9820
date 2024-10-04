@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-## ✍🏻Dev.Log 
+<!--## ✍🏻Dev.Log 
 <div style="display:flex; flex-direction:row;">
     <a href="https://snowball9820.github.io/">
         <img src="https://img.shields.io/badge/githubpages-918EF0?style=for-the-badge&logo=githubpages&logoColor=white"> 
