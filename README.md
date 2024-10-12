@@ -94,7 +94,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a> --> 
       
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowball9820)]([https://velog.io/@snowball9820/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0](https://velog.io/@snowball9820/JWT-세션-토큰))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowball9820)](https://velog.io/@snowball9820/post-stats-update)
 
     
 </div>
