@@ -85,17 +85,16 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-## ✍🏻Dev.Log 
-<!--<div style="display:flex; flex-direction:row;">
+<!--## ✍🏻Dev.Log 
+<div style="display:flex; flex-direction:row;">
     <a href="https://snowball9820.github.io/">
         <img src="https://img.shields.io/badge/githubpages-918EF0?style=for-the-badge&logo=githubpages&logoColor=white"> 
     </a>  
   <!--  <a href="https://velog.io/@snowball9820/series">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a> --> 
+    </a> 
       
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snowball9820)](https://velog.io/@snowball9820/post-stats-update)
-
-    
+-->
 </div>
 
